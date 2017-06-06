@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-04-28T20:01:02</date>
+  <millis>1493398862780</millis>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Load saved settings: Firmware:NodeMCU</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:02</date>
+  <millis>1493398862780</millis>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:02</date>
+  <millis>1493398862796</millis>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:02</date>
+  <millis>1493398862843</millis>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:02</date>
+  <millis>1493398862843</millis>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:02</date>
+  <millis>1493398862843</millis>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:02</date>
+  <millis>1493398862843</millis>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:03</date>
+  <millis>1493398863077</millis>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:03</date>
+  <millis>1493398863109</millis>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Could not find any serial port. Please, connect device and ReScan</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:03</date>
+  <millis>1493398863109</millis>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:12</date>
+  <millis>1493398872249</millis>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:12</date>
+  <millis>1493398872249</millis>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Could not find any serial port. Please, connect device and ReScan</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:12</date>
+  <millis>1493398872249</millis>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:12</date>
+  <millis>1493398872419</millis>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:12</date>
+  <millis>1493398872419</millis>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Could not find any serial port. Please, connect device and ReScan</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:12</date>
+  <millis>1493398872434</millis>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:12</date>
+  <millis>1493398872560</millis>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:12</date>
+  <millis>1493398872560</millis>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Could not find any serial port. Please, connect device and ReScan</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:12</date>
+  <millis>1493398872560</millis>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:12</date>
+  <millis>1493398872856</millis>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:12</date>
+  <millis>1493398872856</millis>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Could not find any serial port. Please, connect device and ReScan</message>
+</record>
+<record>
+  <date>2017-04-28T20:01:12</date>
+  <millis>1493398872856</millis>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2017-04-28T20:02:32</date>
+  <millis>1493398952756</millis>
+  <sequence>28</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileTab cleared: Success.</message>
+</record>
+<record>
+  <date>2017-04-28T20:02:32</date>
+  <millis>1493398952756</millis>
+  <sequence>29</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File close: Success.</message>
+</record>
+</log>
